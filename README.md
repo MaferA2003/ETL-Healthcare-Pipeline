@@ -28,7 +28,7 @@ Este proyecto es una solución de Ingeniería de Datos y Business Intelligence p
 Asegúrese de tener Python instalado. Abra su terminal en la carpeta raíz del proyecto y ejecute el siguiente comando para instalar las librerías necesarias:
 ```bash
 pip install pandas sqlalchemy psycopg2 python-dotenv
-
+```
 ### Paso 3: Configurar la Base de Datos
 1. Abra pgAdmin o su gestor de PostgreSQL y cree una base de datos vacía llamada exactamente `healthcare_db`.
 2. El script asume que su usuario de PostgreSQL es el predeterminado (`postgres`) y el puerto es `5432`.
