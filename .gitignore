@@ -1,0 +1,11 @@
+# Ignorar la carpeta de datos brutos
+dataset/
+
+# Ignorar archivos de entorno de Python y contraseñas
+.env
+venv/
+__pycache__/
+
+# Ignorar archivos temporales de Jupyter
+.ipynb_checkpoints/
+
