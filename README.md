@@ -45,4 +45,5 @@ python Fase_5_orquestador.py
 *El script limpiará los datos automáticamente, generará el modelo relacional y creará las tablas directamente en su base de datos PostgreSQL.*
 
 ### Paso 5: Visualización en Power BI
-Puede abrir el archivo `Fase_4_Reporte_Hospitalario.pbix` incluido en la carpeta para interactuar con el dashboard final. *(Nota: Para actualizar los datos en Power BI, deberá editar los parámetros de origen de datos para que apunten a su servidor `localhost` con sus credenciales).*
+Puede abrir el archivo `Fase_4_Reporte_Hospitalario.pbix` incluido en la carpeta para interactuar con el dashboard final. 
+Nota: Para actualizar los datos en Power BI, deberá editar los parámetros de origen de datos para que apunten a su servidor `localhost` con sus credenciales.
